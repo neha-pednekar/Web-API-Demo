@@ -11797,11 +11797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\my-demo-web-api\\my-demo-web-api.csproj",
+      "projectUniqueName": "D:\\Demo Web Api Repository\\Web-API-Demo\\my-demo-web-api\\my-demo-web-api.csproj",
       "projectName": "my-demo-web-api",
-      "projectPath": "D:\\my-demo-web-api\\my-demo-web-api.csproj",
+      "projectPath": "D:\\Demo Web Api Repository\\Web-API-Demo\\my-demo-web-api\\my-demo-web-api.csproj",
       "packagesPath": "C:\\Users\\Neha Pednekar\\.nuget\\packages\\",
-      "outputPath": "D:\\my-demo-web-api\\obj\\",
+      "outputPath": "D:\\Demo Web Api Repository\\Web-API-Demo\\my-demo-web-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

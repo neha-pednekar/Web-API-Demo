@@ -12,3 +12,17 @@ D:\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.AssemblyInfo.cs
 D:\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.RazorTargetAssemblyInfo.cache
 D:\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.dll
 D:\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.pdb
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\bin\Debug\netcoreapp2.1\my-demo-web-api.deps.json
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\bin\Debug\netcoreapp2.1\my-demo-web-api.runtimeconfig.json
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\bin\Debug\netcoreapp2.1\my-demo-web-api.runtimeconfig.dev.json
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\bin\Debug\netcoreapp2.1\my-demo-web-api.dll
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\bin\Debug\netcoreapp2.1\my-demo-web-api.pdb
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.csprojAssemblyReference.cache
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.csproj.CoreCompileInputs.cache
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.RazorAssemblyInfo.cache
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.RazorAssemblyInfo.cs
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.AssemblyInfoInputs.cache
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.AssemblyInfo.cs
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.RazorTargetAssemblyInfo.cache
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.dll
+D:\Demo Web Api Repository\Web-API-Demo\my-demo-web-api\obj\Debug\netcoreapp2.1\my-demo-web-api.pdb
